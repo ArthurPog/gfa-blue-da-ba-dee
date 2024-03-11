@@ -8,4 +8,4 @@ C - Ivan & Arthur
 
 D - Simon
 
-ASDSFD
+merge conflict filip
