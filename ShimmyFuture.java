@@ -20,5 +20,6 @@ public class ShimmyFuture {
         System.out.println("Your horoscope sign is: " + zodiacSigns[index]);
         
         // testing new push
+        // new push
     }
 }
