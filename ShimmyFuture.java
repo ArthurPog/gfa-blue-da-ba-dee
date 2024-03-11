@@ -1,4 +1,4 @@
-public class ShimmyFuture {
+public class Future {
     public void future() {
 		System.out.println("Scorpio");
     }
