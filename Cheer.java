@@ -3,3 +3,9 @@ public class Cheer {
         System.out.println("Java");
     }
 }
+
+public class Testing {
+	public void testing() {
+		
+	}
+}
