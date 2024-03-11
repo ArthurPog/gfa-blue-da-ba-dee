@@ -1,7 +1,7 @@
 public class Greeting {
 
-    public void greet() {
-        System.out.println("Andrej");
+    public void greet(String param) {
+        System.out.println("Andrej" + param);
     }
     // testing - Simon
 }
