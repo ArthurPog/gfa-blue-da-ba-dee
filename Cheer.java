@@ -1,11 +1,5 @@
 public class Cheer {
-    public void cheer(int number) {
-        System.out.println("Java");
+    public void cheer(int number, String name) {
+        System.out.println("Java " + number + " " + name);
     }
-}
-
-public class Testing {
-	public void testing() {
-		
-	}
 }
