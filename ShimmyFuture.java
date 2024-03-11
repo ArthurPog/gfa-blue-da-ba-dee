@@ -18,5 +18,7 @@ public class ShimmyFuture {
 
         int index = (month - 1 + (day >= startDates[month - 1] ? 1 : 0)) % 12;
         System.out.println("Your horoscope sign is: " + zodiacSigns[index]);
+        
+        // testing new push
     }
 }
