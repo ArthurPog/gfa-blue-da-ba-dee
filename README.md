@@ -7,3 +7,5 @@ B - Filip
 C - Ivan & Arthur
 
 D - Simon
+
+merge conflict filip
